@@ -1,0 +1,9 @@
+To find out what's taught in the introduction video of this course, let's take a look at the subtitle chunks for Video 1.
+
+The text at timestamp 50 seconds says "In this course we will do a lot of practice". This gives us an idea that Video 1 focuses on practical aspects of programming.
+
+Later, at timestamp 220 seconds, it says "Here will be the tutorial", indicating that Video 1 is about tutorials for learning programming.
+
+Finally, at timestamp 330 seconds, it mentions "So we are going to learn in this course". This suggests that Video 1 is an introduction to the entire course, outlining what can be learned.
+
+If you want to know more details about the topics covered in Video 1 or where specific concepts like "Introduction to Programming" start being discussed, I'd be happy to guide you further.

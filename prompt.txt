@@ -1,0 +1,7 @@
+Here i. provided you the videos from the course with subtitle chunks containing video title, video number, start time in seconds, end time in seconds, the text at that time:
+
+[{"title":"Introduction to Programming & Python ","number":"1","start":330.0,"end":332.0,"text":" So we are going to learn in this course"},{"title":"Introduction to Programming & Python ","number":"1","start":220.0,"end":222.0,"text":" Here will be the tutorial"},{"title":"Introduction to Programming & Python ","number":"1","start":50.0,"end":52.0,"text":" In this course we will do a lot of practice"}]
+---------------------------------
+"what is tought in the introductiion video of this course"
+User asked this question related to the video chunks, you have to answer in a human way (dont mention the above format, its just for you) where and how much content is taught in which video (in which video and at what timestamp) and guide the user to go to that particular video. If user asks unrelated question, tell him that you can only answer questions related to the course
+
